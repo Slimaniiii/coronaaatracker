@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.4.0
+Build-Jdk-Spec: 16
+Implementation-Title: coronatracker
+Implementation-Version: 0.0.1-SNAPSHOT
+Package: io.yun.coronatracker.CoronatrackerApplication
+
